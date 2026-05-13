@@ -1,0 +1,75 @@
+{
+  "salesGuide": {
+    "timing": {
+      "timingStage": "选型评估期（僵持阶段）",
+      "entryStrategy": "绕过IT王浩，从业务痛点和高层战略切入，重新激活项目",
+      "urgency": "中高"
+    },
+    "stageAdvice": {
+      "focus": "找到王浩不配合的根本原因，同时激活业务侧需求，形成双线压力",
+      "approach": "先侧面摸清王浩的顾虑（利益/面子/方案认知），再找业务部门（如医学部/销售管理）从合规和效率角度提出需求，借助高层推动IT配合",
+      "risks": "只盯IT一条线，被竞对抢先；或者没有高层背书就硬推，激化对立"
+    },
+    "competitors": [
+      {
+        "name": "其他钉钉服务商",
+        "threat": "高",
+        "strengths": ["已建立IT对接关系", "可能已有初步方案和报价", "熟悉贝达内部流程"],
+        "weaknesses": ["身份未知，难以针对性突破", "方案可能偏标准化，缺乏医药行业深度", "缺乏高层支持"],
+        "counterStrategy": "找到差异化场景（如GMP合规、药物警戒、销售行为管理），用行业Know-How建立差异"
+      },
+      {
+        "name": "企业微信/飞书",
+        "threat": "中",
+        "strengths": ["用户习惯好", "生态成熟", "部分药企已在用"],
+        "weaknesses": ["钉钉在协同审批和开放平台能力更强", "阿里系在药企有更多合规案例"],
+        "counterStrategy": "强调钉钉在医药行业特定场景（合规审批、移动巡检、流向管理）的适配优势"
+      },
+      {
+        "name": "自研/现有OA",
+        "threat": "低",
+        "strengths": ["完全定制", "数据在自己手里"],
+        "weaknesses": ["开发成本高周期长", "运维负担重", "难以及时跟上业务变化"],
+        "counterStrategy": "以TCO和响应速度切入，强调持续迭代能力"
+      }
+    ],
+    "decisionChain": {
+      "decisionMakers": [
+        { "name": "丁列明", "department": "董事长", "reason": "数字化投入最终拍板，尤其涉及全公司协同平台" },
+        { "name": "万江", "department": "CEO", "reason": "业务线实际决策者，关注投入产出和执行效率" }
+      ],
+      "influencers": [
+        { "name": "王浩", "department": "IT部", "reason": "技术评估和方案推荐，但目前不配合，需突破" },
+        { "name": "医学部/销售管理负责人", "department": "业务部门", "reason": "钉钉可解决业务协同痛点（如代表行为管理、合规审批），可作为需求推动力" }
+      ],
+      "blockers": [
+        { "name": "王浩", "department": "IT部", "reason": "当前不回应，可能已被竞对锁定，或对钉钉有认知偏差，需要先摸清顾虑" }
+      ]
+    },
+    "avoidTopics": [
+      "老板亲自施压IT（会激化对立，让王浩站队竞对）",
+      "直接否定其他供应商（让王浩觉得你在攻击他的选择）",
+      "过度承诺免费服务或超低价（引发后续质量和信任问题）"
+    ],
+    "interviewGuide": {
+      "fromRequirements": []
+    },
+    "tracking": {
+      "coverageRate": 0,
+      "coveredCount": 0,
+      "totalCount": 0,
+      "pendingCritical": []
+    },
+    "nextActions": [
+      { "action": "侧面摸底：通过行业朋友或前同事了解王浩的顾虑（竞对关系？钉钉认知偏差？）", "deadline": "本周内", "owner": "销售" },
+      { "action": "找业务入口：联系医学部或销售管理负责人，了解他们实际的协同痛点（合规审批/代表管理/流向追溯）", "deadline": "本周内", "owner": "销售" },
+      { "action": "准备案例：整理药企钉钉成功案例（最好是同规模创新药企），发给王浩做认知铺垫", "deadline": "3天内", "owner": "销售" },
+      { "action": "创造偶遇：参加药企相关行业会议/沙龙，与王浩或丁列明建立非正式接触", "deadline": "两周内", "owner": "销售" }
+    ],
+    "metadata": {
+      "generatedAt": "2026-05-13T00:00:00Z",
+      "updatedAt": "2026-05-13T00:00:00Z",
+      "version": "1.0"
+    }
+  }
+}
