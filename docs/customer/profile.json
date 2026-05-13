@@ -1,0 +1,152 @@
+{
+  "companyName": "贝达药业股份有限公司",
+  "shortName": "贝达药业",
+  "summary": "贝达药业是中国领先的创新型生物制药企业，专注于抗肿瘤创新药物的研发、生产与商业化，以自主研发的靶向新药埃克替尼为核心产品，在肺癌靶向治疗领域占据重要市场地位。",
+  "industry": "医药制造业",
+  "subIndustry": "创新药/抗肿瘤药物",
+  "scale": "中型偏大规模（员工2000-3000人，年营收15-25亿元区间）",
+  "mainBusiness": "抗肿瘤创新药物研发、生产与销售，聚焦小分子靶向药物",
+  "products": [
+    { "name": "盐酸埃克替尼片（凯美纳）", "description": "中国首个自主研发的EGFR靶向小分子抑制剂，用于非小细胞肺癌治疗，为国家一类新药" },
+    { "name": "盐酸恩沙替尼胶囊（贝美纳）", "description": "自主研发的ALK靶向抑制剂，用于ALK阳性非小细胞肺癌，为国家一类新药" },
+    { "name": "贝伐珠单抗注射液（贝安汀）", "description": "抗血管生成单克隆抗体药物，用于多种实体瘤治疗" },
+    { "name": "伏罗尼布（CM082）", "description": "自主研发的VEGFR/PDGFR抑制剂，处于临床阶段" },
+    { "name": "BPI-Dalazin", "description": "EGFR-TKI类靶向药，处于NDA阶段" },
+    { "name": "BPI-23314", "description": "BET抑制剂，用于血液肿瘤，处于临床阶段" }
+  ],
+  "targetCustomers": [
+    "大型三甲医院肿瘤科",
+    "肿瘤专科医院",
+    "肿瘤患者",
+    "DTP药房",
+    "医药流通企业"
+  ],
+  "businessModel": "创新药研发+自主生产+学术推广",
+  "rating": "A",
+  "tags": [
+    "创新药",
+    "抗肿瘤",
+    "靶向药物",
+    "上市公司",
+    "EGFR",
+    "ALK抑制剂",
+    "国际化",
+    "研发驱动",
+    "专精特新",
+    "高新技术",
+    "数字化转型"
+  ],
+  "website": "https://www.betapharma.com.cn",
+  "slogan": "做中国人用得起的好药",
+  "isListed": true,
+  "stockCode": "300558",
+  "revenueScale": "15-25亿元/年",
+  "registration": {
+    "registeredName": "贝达药业股份有限公司",
+    "registeredCapital": "4.15亿元人民币",
+    "paidCapital": "4.15亿元人民币",
+    "establishedDate": "2003-09-27",
+    "legalRepresentative": "丁列明",
+    "businessStatus": "存续（在营、开业、在册）",
+    "shareholders": [
+      "丁列明（创始人/董事长，控股）",
+      "宁波凯铭投资管理合伙企业（控股平台）",
+      "全国社保基金等机构投资者",
+      "自然人股东"
+    ],
+    "branchCount": "约10-20家（含子公司、分公司）",
+    "interpretation": "注册资本4.15亿元在制药行业中属于中型规模，实缴资本与注册资本一致表明资金到位情况良好，财务相对稳健。",
+    "organizationType": "职业化管理+创始人主导型",
+    "keyFindings": [
+      "注册资本4.15亿元全额实缴，资金实力稳健，具备持续研发投入基础",
+      "股权结构以创始人丁列明为核心，宁波凯铭投资为控股平台，股权集中度高，有利于快速决策",
+      "分支机构覆盖研发、生产、销售全产业链，表明公司已构建完整商业化体系"
+    ]
+  },
+  "organization": {
+    "type": "职业化管理+创始人主导型制药企业",
+    "decisionChain": "业务部门/医学部提出需求→采购/IT部门评估→分管副总裁审批→CEO/董事会最终决策",
+    "keyPersons": [
+      { "name": "丁列明", "title": "董事长/创始人，国家千人计划专家，生物学博士" },
+      { "name": "万江", "title": "董事/首席执行官（CEO）" },
+      { "name": "蔡幸伦", "title": "副总裁/首席科学官" },
+      { "name": "童佳", "title": "财务总监" }
+    ],
+    "salesStrategy": "聚焦肿瘤领域头部医院与专家网络，以学术推广驱动处方，建立患者援助项目提升用药可及性，同时拓展DTP药房渠道。重点关注药物疗效数据与真实世界研究输出，说服肿瘤科主任与关键KOL。"
+  },
+  "timing": {
+    "phase": "扩张强化期（数字化系统升级需求显著）",
+    "analysisBasis": [
+      "公司已有完整ERP/LIMS系统，但数据孤岛问题突出，研发与商业化数据未打通",
+      "近年持续引入高端研发人才并扩张营销团队，管理复杂度提升倒逼数字化",
+      "新药陆续上市（恩沙替尼、贝安汀）带来销售管理、合规管理（GVP/GMP）压力"
+    ],
+    "entryStrategy": "以研发数据管理（LIMS/EDC）和销售合规（SFE/CRM）为切入点，展示与现有GMP质量体系的协同价值，避免颠覆性替换，强调合规+效率双重价值",
+    "urgency": "中等偏高，竞品（豪森、阿斯利康）已加速数字化投入，窗口期约12-18个月"
+  },
+  "hiring": {
+    "keySignals": [
+      "持续招聘临床监查员（CRA）、医学联络官（MSL）等临床开发岗位",
+      "研发类岗位（药物化学、药理毒理）稳定招聘，反映研发管线推进需求",
+      "数字化岗位可能集中在生产质量管理系统（如MES、LIMS）和营销CRM方向",
+      "销售岗以学术推广为主，符合创新药企业特点"
+    ]
+  },
+  "competition": {
+    "industryRank": "中国创新药企业TOP30，肺癌靶向药细分领域前三",
+    "marketShare": "EGFR抑制剂市场份额约15-20%，凯美纳为国产EGFR靶向药龙头品种",
+    "mainCompetitors": [
+      "阿斯利康（奥希替尼等EGFR产品线）",
+      "豪森药业/翰森制药（阿美替尼）",
+      "齐鲁制药",
+      "贝达药业（自身埃克替尼+恩沙替尼组合）"
+    ],
+    "knownClients": [
+      "中国医学科学院肿瘤医院",
+      "复旦大学附属肿瘤医院",
+      "中山大学肿瘤防治中心",
+      "华西医院",
+      "北京肿瘤医院",
+      "国药控股",
+      "上海医药"
+    ]
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": null,
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false
+    },
+    "policy": {
+      "isSpecializedSME": true,
+      "smeLevel": "省级或国家级培育库",
+      "isHighTech": true,
+      "digitalTransformation": true,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [
+    { "area": "研发数据管理", "description": "多管线并行推进，研发数据分散在多个系统/团队中，数据完整性与合规性（21 CFR Part 11）管理压力大，EDC/LIMS集成不足", "severity": "高" },
+    { "area": "销售合规管理", "description": "医药代表合规管理要求趋严，两票制+带量采购背景下需要更精细的渠道与流向数据管理，现有CRM难以满足SFE需求", "severity": "高" },
+    { "area": "GMP质量管控", "description": "多产品线多批次生产，电子批记录与验证管理依赖人工或老旧系统，数据完整性和可追溯性难以保障审计要求", "severity": "中" },
+    { "area": "供应链与库存管理", "description": "原料药及中间体供应链管理复杂，冷链仓储管理要求高，库存周转与效期管理效率有待提升", "severity": "中" },
+    { "area": "药物警戒", "description": "多个上市产品的不良反应收集与报告提交（符合GVP要求）需要专业化PV系统支撑，人工处理难以满足法规时效要求", "severity": "中" }
+  ],
+  "opportunities": [
+    { "area": "研发数据平台/EDC", "description": "建立统一研发数据中台，打通化合物筛选→临床前→临床数据，配合EDC系统加速临床试验进程，满足FDA/NMPA合规要求", "likelihood": "高" },
+    { "area": "SFE/CRM销售效能管理", "description": "构建医药专属SFE系统，跟踪代表行为数据、医院覆盖、处方转化，配合流向数据管理，为带量采购续约提供数据支撑", "likelihood": "高" },
+    { "area": "药物警戒系统", "description": "部署专业化PV平台，自动化收集不良反应、快速生成合规报告（NDA/PSUR），降低合规风险和法律风险", "likelihood": "中" }
+  ],
+  "analysisPath": "A",
+  "confidence": 4,
+  "metadata": {
+    "createdAt": "2026-05-13",
+    "updatedAt": "2026-05-13",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": ["WebSearch", "WebFetch"],
+    "confidence": 4
+  }
+}
